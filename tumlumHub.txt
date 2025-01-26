@@ -2,12 +2,12 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
 
        local Window = MakeWindow({
          Hub = {
-         Title = "HungThinh Hub",
+         Title = "Anime Hub",
          Animation = "Script Tổng Hợp Ver1"
          },
         Key = {
         KeySystem = true,
-        Title = "HungThinh Hub / Scrit Tổng Hợp",
+        Title = "By Hưng Thịnh / Scrit Tổng Hợp",
         Description = "",
         KeyLink = "https://anotepad.com/notes/g3gb9imd",
         Keys = {"Animehub"},
