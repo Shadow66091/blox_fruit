@@ -6,11 +6,11 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
          Animation = "Script Tổng Hợp Ver1"
          },
         Key = {
-        KeySystem = false,
+        KeySystem = true,
         Title = "HungThinh Hub / Scrit Tổng Hợp",
         Description = "",
-        KeyLink = "",
-        Keys = {"hungthinh"},
+        KeyLink = "https://anotepad.com/notes/g3gb9imd",
+        Keys = {"Animehub"},
         Notifi = {
         Notifications = true,
         CorrectKey = "Đang Chạy Kịch Bản",

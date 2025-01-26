@@ -3,7 +3,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
        local Window = MakeWindow({
          Hub = {
          Title = "Anime Hub",
-         Animation = "Script Để Săn Bounty"
+         Animation = "Script Aimbot Player Săn Bounty"
          },
         Key = {
         KeySystem = true,
