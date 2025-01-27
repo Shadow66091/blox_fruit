@@ -6,7 +6,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
          Animation = "Script Aimbot Player Săn Bounty"
          },
         Key = {
-        KeySystem = true,
+        KeySystem = false,
         Title = "By Hưng Thịnh/ Script Săn Bounty",
         Description = "",
         KeyLink = "https://anotepad.com/notes/g3gb9imd",
