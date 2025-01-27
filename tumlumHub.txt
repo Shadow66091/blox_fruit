@@ -41,6 +41,24 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/hea
   end
   })
 
+AddButton(Tab1o, {
+     Name = "Auto Fruit",
+    Callback = function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Shadow66091/test/refs/heads/main/Code%20Nha%CC%A3%CC%86t%20Fruit%20Tu%CC%9B%CC%A3%20%C4%90o%CC%A3%CC%82ng.lua.txt"))()
+
+  end
+  })
+  
+  AddButton(Tab1o, {
+     Name = "Duong Gio Tai Hub",
+    Callback = function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Shadow66091/blox_fruit/refs/heads/main/%F0%9D%98%BF%F0%9D%99%AA%F0%9D%99%A4%F0%9D%99%A3%F0%9D%99%9C%F0%9D%99%82%F0%9D%99%9E%F0%9D%99%A4%F0%9D%99%8F%F0%9D%99%96%F0%9D%99%9E%F0%9D%99%83%F0%9D%99%AA%F0%9D%99%97.txt"))()
+
+  end
+  })
+  
     AddButton(Tab1o, {
      Name = "Redzhub",
     Callback = function()
@@ -221,10 +239,10 @@ end)
   })
 
     AddButton(Tab1o, {
-     Name = "Aim Camera",
+     Name = "Aimbot Player",
     Callback = function()
             
-loadstring(Game:HttpGet("https://raw.githubusercontent.com/VanThanhIOS/AlexAimBot/refs/heads/main/AimBotBanTumLum.lua.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Shadow66091/blox_fruit/refs/heads/main/aimbotplayer.lua.txt"))()
             
   end
   })
