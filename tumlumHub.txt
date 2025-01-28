@@ -9,8 +9,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
         KeySystem = true,
         Title = "By Hưng Thịnh / Scrit Tổng Hợp",
         Description = "",
-        KeyLink = "https://anotepad.com/notes/g3gb9imd",
-        Keys = {"Animehub"},
+        KeyLink = "https://yeumoney.com/0I_vZO5X3",
+        Keys = {"FREE_7d51f72e9fa78f5887da4df109da8f60"},
         Notifi = {
         Notifications = true,
         CorrectKey = "Đang Chạy Kịch Bản",
@@ -77,14 +77,22 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc61
   end
   })
 
-AddButton(Tab1o, {
-     Name = "Auto Farm Rương",
-    Callback = function()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Shadow66091/blox_fruit/refs/heads/main/AutoCheckBatTat.lua.txt"))() 
-
-  end
-  })
+AddButton(Tab1o, {
+
+     Name = "Auto Farm Rương",
+
+    Callback = function()
+
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Shadow66091/blox_fruit/refs/heads/main/AutoCheckBatTat.lua.txt"))() 
+
+
+
+  end
+
+  })
+
   
 
     AddButton(Tab1o, {
