@@ -9,8 +9,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
         KeySystem = true,
         Title = "By Hưng Thịnh / Scrit Tổng Hợp",
         Description = "",
-        KeyLink = "https://yeumoney.com/0I_vZO5X3",
-        Keys = {"FREE_7d51f72e9fa78f5887da4df109da8f60"},
+        KeyLink = "https://yeumoney.com/d7GFBsuTkjWX",
+        Keys = {"premium_9927avbabehd"},
         Notifi = {
         Notifications = true,
         CorrectKey = "Đang Chạy Kịch Bản",
@@ -21,7 +21,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
   })
 
        MinimizeButton({
-       Image = "http://www.roblox.com/asset/?id=89284864928775",
+       Image = "http://www.roblox.com/asset/?id=116829064365210",
        Size = {40, 40},
        Color = Color3.fromRGB(10, 10, 10),
        Corner = true,
@@ -41,15 +41,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/hea
   end
   })
 
-AddButton(Tab1o, {
-     Name = "Auto Fruit",
-    Callback = function()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Shadow66091/test/refs/heads/main/Code%20Nha%CC%A3%CC%86t%20Fruit%20Tu%CC%9B%CC%A3%20%C4%90o%CC%A3%CC%82ng.lua.txt"))()
-
-  end
-  })
-  
   AddButton(Tab1o, {
      Name = "Duong Gio Tai Hub",
     Callback = function()
