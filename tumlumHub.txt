@@ -9,12 +9,12 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
         KeySystem = true,
         Title = "By Hưng Thịnh / Scrit Tổng Hợp",
         Description = "",
-        KeyLink = "https://yeumoney.com/uXkw1NpW",
-        Keys = {"VHTxNTTH22_11_2024"},
+        KeyLink = "Có CL mà Get",
+        Keys = {"VHTxNTTH_22_11_2024"},
         Notifi = {
         Notifications = true,
         CorrectKey = "Đang Chạy Kịch Bản",
-       Incorrectkey = "Mật Khẩu Không Đúng",
+       Incorrectkey = "Sai Mật Khẩu Rồi Ku",
        CopyKeyLink = "Đã Sao Chép"
       }
     }
