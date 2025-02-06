@@ -40,6 +40,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/hea
 
   end
   })
+
 AddButton(Tab1o, {
 
      Name = "Auto Gạt Cần lên V4",
