@@ -40,6 +40,21 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/hea
 
   end
   })
+AddButton(Tab1o, {
+
+     Name = "Min Gaming Crack By Hưng Thịnh",
+
+    Callback = function()
+
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Shadow66091/blox_fruit/refs/heads/main/xinchao.txt"))()
+
+
+  end
+
+  })
+
 
 AddButton(Tab1o, {
 
