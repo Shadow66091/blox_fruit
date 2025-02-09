@@ -40,6 +40,21 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/hea
 
   end
   })
+
+AddButton(Tab1o, {
+
+     Name = "Auto Bounty",
+
+    Callback = function()
+
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pisovn/OisiRoblox1/refs/heads/main/AutoBountyXero"))()
+
+  end
+
+  })
+
 AddButton(Tab1o, {
 
      Name = "Min Gaming Crack By Hưng Thịnh",
