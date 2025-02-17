@@ -10,7 +10,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
         Title = "By Hưng Thịnh / Scrit Tổng Hợp",
         Description = "",
         KeyLink = "Có CL mà Get",
-        Keys = {"duong_gio_tai_111abc"},
+        Keys = {"duong_gio_tai_co_khung_long"},
         Notifi = {
         Notifications = true,
         CorrectKey = "Đang Chạy Kịch Bản",
